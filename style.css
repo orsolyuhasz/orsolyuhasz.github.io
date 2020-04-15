@@ -1,0 +1,75 @@
+.anakin{
+  width:700px;
+  margin-left:auto;
+  margin-right:auto;
+  display:flex;
+  
+}
+.quote{
+  position:absolute;
+  margin-top:0px
+}
+.szoveg{
+  margin:350px;
+  margin-top:0px;
+  margin-bottom:30px;
+  font-family: 'Josefin Sans';
+  color:grey;
+  
+}
+.sorolas{
+  margin-left:400px;
+  font-family:'Josefin Sans';
+  color:grey;
+  margin-bottom:30px;
+  
+}
+footer{
+  display:flex;
+  margin-left:auto;
+  margin-right:auto;
+  height:80px;
+  background:#222;
+  width:400px;
+}
+.lab{
+  color:white;
+  display:flex;
+  margin:auto;
+  font-family:'Abril Fatface';
+  font-size:25px
+    
+  
+    
+}
+#macskakarom{
+  color:white;
+  position:absolute;
+  margin-top:0;
+  margin-left:5px;
+  font-family:'Abril Fatface';
+  font-size:40px;
+  
+}
+.picture{
+  background: url('http://stayathome-syllabus.greenfox.academy/week01/assets/first-website-header.png');
+  width:800px;
+  height:400px;
+  background-repeat:no-repeat;
+  background-size:contain;
+  margin-left:auto;
+  margin-right:auto;
+  margin-bottom:0;
+}
+.elso{
+  font-family:'Abril Fatface';
+  font-size:34px;
+  position:flex;
+  margin-bottom:0;
+  margin-left:auto;
+  margin-right:auto;
+  
+}
+#skywalker{
+  font-weight:bold;
+}
